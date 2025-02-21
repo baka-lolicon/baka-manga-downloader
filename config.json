@@ -1,0 +1,22 @@
+{
+    "PROXY_IP": "127.0.0.1",
+    "PROXY_PORT": "7890",
+    "DOWNLOAD_MAX_WORKERS": 10,
+    "RETRIES": 3,
+    "DELAY": 5,
+    "DOWNLOAD_DIR": "temp",
+    "USE_PROXY": true,
+    "DEFAULT_IMAGE_SOURCE": "0",
+    "IMAGE_SOURCE":{
+        "0": "manhuagui",
+        "1": "dumanwu"
+    },
+    "HEADERS": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    },
+    "COOKIES": {
+        "isAdult": "1"
+    }
+}
+  
